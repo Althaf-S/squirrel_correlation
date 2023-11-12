@@ -1,5 +1,4 @@
 import json
-import math
 
 
 def load_journal(j_file = 'journal.json'):
